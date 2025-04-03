@@ -105,7 +105,7 @@
 #define  DATA_CACHE_ENABLE            1U
 
 
-//#define STM32F100xB
+// #define STM32F100xB
 #include "stm32f1xx.h"
 
 #endif
